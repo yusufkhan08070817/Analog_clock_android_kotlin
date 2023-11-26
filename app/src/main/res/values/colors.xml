@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clockback1">#4e6084</color>
+    <color name="red">#dd7f7c</color>
+    <color name="gray">#646464</color>
+    <color name="background1">#2a3c68</color>
+    <color name="background2">#536ba2</color>
+    <color name="buttonclr">#78b5f1</color>
+
+</resources>
